@@ -3,6 +3,10 @@
 ## Overview
 V. Isualize would like to see a summary of the ride-sharing data by city type.  Seeing those differences will help the decision-makers at PyBer.
 
+### Resources
+Data Source: ride_data.csv, city_data.csv, Pyber_ride_data.csv
+
+Software Python 3.6.1, Jupyter Notebook
 
 ### Results
 Lets start by breaking down the average fare by city types.  After all the higher the fare the more money, right?  You can see in the Box and Whisker plot below that the rural cities have the highest average fares.  They must be raking it in.
