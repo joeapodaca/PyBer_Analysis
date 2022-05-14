@@ -9,7 +9,7 @@ Data Source: ride_data.csv, city_data.csv, Pyber_ride_data.csv
 Software Python 3.6.1, Jupyter Notebook
 
 ### Results
-Lets start by breaking down the average fare by city types.  After all the higher the fare the more money, right?  You can see in the Box and Whisker plot below that the rural cities have the highest average fares.  They must be raking it in.
+Lets start by breaking down the average fare by city types.  After all the higher the fare the more money, right?  The Box and Whisker plot below shows that the rural cities have the highest average fares.  They must be raking it in.
 
 ![Box and Wisker](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/Fig3.png)
 
@@ -17,7 +17,7 @@ But how many drivers are collecting these high fares. Let’s count the average 
 
 ![Box and Wisker](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/Fig4.png)
 
-With all these drivers in urban cities, how many people need a ride?  You can see in the Box and Whisker plot below that the urban cities have also have the most riders.
+With all these drivers in urban cities, how many people need a ride?  In the Box and Whisker plot below the urban cities also have the most riders.
 
 ![Box and Wisker](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/Fig2.png)
 
@@ -26,7 +26,7 @@ In the scatter plot below the circle size correlates with the driver count per c
 ![Scatter Plot](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/fig1.png)
 
 
-This is getting interesting. You can see in the Pie Chart below that even though rural cities fares are the highest, the urban city drivers are collecting the most fares.
+This is getting interesting. The Pie Chart below shows that even though rural cities fares are the highest, the urban city drivers are collecting the most fares.
 
 ![Pie Chart](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/Fig5.png)
 
