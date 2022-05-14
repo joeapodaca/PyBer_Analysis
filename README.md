@@ -32,7 +32,7 @@ This is getting interesting. The Pie Chart below shows that even though rural ci
 
 Let’s create a new dataframe to show how the fares are collected overtime.  Let’s break down the data by city type over the last few months.  You can clearly see a big difference between the fares being collected in each city type.
 
-![Line Chart](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/Total_Fares_by_City_Type.png)
+![Line Chart](https://github.com/joeapodaca/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png)
 
 
 ## Summary
